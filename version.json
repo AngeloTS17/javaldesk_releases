@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.15",
-  "build_number": 15,
-  "minimum_build": 10,
+  "latest_version": "1.0.1",
+  "build_number": 1,
+  "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "⚠️ AVISO DE SEGURIDAD (Obligatorio):\nPara certificar la app ante Google Play Protect se actualizó la firma digital.\n\nPara instalar esta versión:\n1. Desinstala la app actual de tu teléfono.\n2. Descarga e instala la nueva versión desde este enlace:\nhttps://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.15/app-release.apk\n\nNovedades de la versión:\n• Se optimizó la emisión de comprobantes ante lentitud de SUNAT.\n• Barra de progreso en tiempo real al registrar venta.\n• Tutoriales interactivos guiados.\n• Mejoras generales de rendimiento y estabilidad.",
+  "release_notes": "test 1",
   "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.15/app-release.apk",
   "file_size_bytes": 91586141,
   "sha256": "99f9b8705944d3581beb7055157a55988e4ad074562668ab6b74548bce9b36b6"
