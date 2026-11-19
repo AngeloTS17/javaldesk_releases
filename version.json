@@ -3,8 +3,8 @@
   "build_number": 1,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "test 1",
-  "download_url": "https://github.com/AngeloTS17/facturador-jt-releases/releases/download/V1.0.15/app-release.apk",
+  "release_notes": "Primera Versión. 1.0.1",
+  "download_url": "https://github.com/AngeloTS17/javaldesk_releases/releases/download/V1.0.1/app-release.apk",
   "file_size_bytes": 91586141,
   "sha256": "99f9b8705944d3581beb7055157a55988e4ad074562668ab6b74548bce9b36b6"
 }
