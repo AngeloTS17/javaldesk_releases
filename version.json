@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.3",
-  "build_number": 3,
+  "latest_version": "1.0.2",
+  "build_number": 2,
   "minimum_build": 1,
-  "is_mandatory": true,
+  "is_mandatory": false,
   "release_notes": "Primera Versión. 1.0.2",
   "download_url": "https://github.com/AngeloTS17/javaldesk_releases/releases/download/V1.0.2/app-release.apk",
   "file_size_bytes": 96430342,
